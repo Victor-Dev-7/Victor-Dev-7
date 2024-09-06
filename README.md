@@ -4,7 +4,7 @@
 - 😄 Access my portfolio: Coming soon
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pycharm,pytorch,react,sklearn,tensorflow,unity" />
+    <img src="https://skillicons.dev/icons?i=py,pycharm,pytorch,sklearn,tensorflow,npm,vite,react,windows,vscode,unity" />
   </a>
 </p>
 
